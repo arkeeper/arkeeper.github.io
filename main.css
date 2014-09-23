@@ -7,7 +7,7 @@ body {
     
 }
 
-.jumbotron ul > li {
+.jumbotron ul#toplist > li {
      display: inline;
 }
 
