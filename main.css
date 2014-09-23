@@ -1,11 +1,21 @@
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
 }
-ul#outer li
+#outer ul li
 {
-  float:left;
+  display: inline-block;	
+ 	padding: 30px 20px;
+ 	margin: -2px;
+	font-weight: bold;
+    position:relative;
 }
-ul.inner li
-{
-  float:none;
+#outer ul li > ul.inner {
+  display:block;
+}
+.inner {
+	position: absolute;
+  /*added */
+  display:none;
+  top:100%;
+  left:0;
 }
