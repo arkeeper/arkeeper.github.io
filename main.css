@@ -7,7 +7,7 @@ body {
     
 }
 
-.jumbotron li {
+.jumbotron ul > li {
      display: inline;
 }
 
@@ -41,7 +41,6 @@ body {
     color: #00b0ff;
 }
 
-.nav li {
+.nav ul > li {
      display: block;
-}
 }
