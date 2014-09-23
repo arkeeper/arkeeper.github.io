@@ -13,12 +13,16 @@
 }
 .jumbotron {
     height: 500px;
+    
 }
 .jumbotron h1 {
     color: #406000;
     font-size: 48px;
     font-weight: bold;
     font-family:'Shift', sans-serif;
+    position: relative;
+    top: 91px;
+    left: 55px;
 }
 .jumbotron h3 {
     color: #003300;
@@ -28,4 +32,7 @@
 }
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
+}
+.jumbotron h3 li {
+    display:inline;
 }
