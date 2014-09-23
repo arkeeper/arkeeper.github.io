@@ -6,6 +6,11 @@ body {
     height: 500px;
     
 }
+
+.jumbotron li {
+     display: inline;
+}
+
 .jumbotron h1 {
     color: #406000;
     font-size: 48px;
@@ -36,7 +41,7 @@ body {
     color: #00b0ff;
 }
 
-ul {width: 90%; margin: 0 auto; }
-  ul > li {float: left; width: 32%; }
-  ul > li > ul {display: block; width: 100%; }
-  ul > li > ul > li {display: block; float: none; }
+.nav li {
+     display: block;
+}
+}
