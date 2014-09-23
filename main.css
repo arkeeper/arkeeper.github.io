@@ -33,6 +33,9 @@
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
 }
-.jumbotron h3 li {
-    display:inline;
+.jumbotron ul > li {
+    display: inline;
+}
+.jumbotron ul > li > ul {
+    display: none;
 }
