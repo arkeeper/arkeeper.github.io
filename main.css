@@ -1,7 +1,7 @@
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
 }
-.jumbotron li {
+.jumbotron ul li {
 	list-style: none;
 	float: left;
 	width: 800px;
@@ -12,12 +12,12 @@ body {
 	width: 90px;
 	height: 90px;
 }
-.jumbotron ul{
+.jumbotron ul li ul {
 	margin: 0;
 	padding: 0;
 	width: 100px;
 }
-.jumbotron ul li {
+.jumbotron ul li ul li {
 	clear: left;
 }
 
