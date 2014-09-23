@@ -36,6 +36,3 @@ body {
 .jumbotron li {
     display: inline;
 }
-.jumbotron li li {
-    display: block;
-}
