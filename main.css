@@ -37,11 +37,6 @@ body {
     color: #00b0ff;
 }
 
-.jumbotron {
-	margin: auto;
-	padding: 0;
-	width: 800px;
-}
 .jumbotron li {
 	list-style: none;
 	float: left;
