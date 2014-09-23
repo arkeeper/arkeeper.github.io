@@ -22,18 +22,6 @@ body {
     font-weight: bold;
 }
 
-ul#toplist
-{
-padding: 0;
-margin: 0;
-list-style-type: none;
-}
-
-ul#toplist li { display: inline; 
-float: left;
-width: 5em;
-}
-
 .nav {
     color: #4020A0;
     font-size: 14px;
