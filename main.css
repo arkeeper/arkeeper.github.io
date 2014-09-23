@@ -11,8 +11,10 @@ body {
 	margin: 5px;
 	width: 100%;
 }
-.jumbotron ul li ul li {
+.jumbotron ul > li > ul > li {
 	clear: left;
+	display: block;
+	float: none;
 }
 
 .jumbotron ul {
