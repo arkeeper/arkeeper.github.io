@@ -47,3 +47,7 @@ width: 5em;
 .nav a {
     color: #00b0ff;
 }
+  ul {width: 90%; margin: 0 auto; }
+  ul li {display: inline-block; width: 32%; }
+  ul li ul {width: 100%; }
+  ul li ul li {display: block; }
