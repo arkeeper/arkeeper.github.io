@@ -56,3 +56,9 @@ body {
 .jumbotron ul li {
 	clear: left;
 }
+
+.jumbotron {
+	margin: auto;
+	padding: 0;
+	width: 800px;
+}
