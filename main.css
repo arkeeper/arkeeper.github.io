@@ -4,6 +4,7 @@ body {
 .jumbotron li {
 	list-style: none;
 	float: left;
+	width: 800px;
 }
 .jumbotron a {
 	display: block;
