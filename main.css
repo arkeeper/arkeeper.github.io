@@ -7,10 +7,6 @@ body {
     
 }
 
-.jumbotron li {
-     display: inline;
-}
-
 .jumbotron h1 {
     color: #406000;
     font-size: 48px;
@@ -41,6 +37,27 @@ body {
     color: #00b0ff;
 }
 
-.nav ul > li {
-     display: block;
+.jumbotron {
+	margin: auto;
+	padding: 0;
+	width: 800px;
+}
+.jumbotron li {
+	list-style: none;
+	float: left;
+}
+.jumbotron a {
+	display: block;
+	margin: 5px;
+	width: 90px;
+	height: 90px;
+	background: #fc0;
+}
+.jumbotron ul{
+	margin: 0;
+	padding: 0;
+	width: 100px;
+}
+.jumbotron ul li {
+	clear: left;
 }
