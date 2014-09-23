@@ -2,12 +2,11 @@ body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
 }
 .jumbotron ul > li {
-	float: left;
+	display: inline-block;
 	width: 32%;
 }
 .nav ul {
 	display: block;
-	width: 100%;
 }
 .nav ul > li {
 	display: block;
