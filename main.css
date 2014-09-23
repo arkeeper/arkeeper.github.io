@@ -1,21 +1,38 @@
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
 }
-#outer ul li
-{
-  display: inline-block;	
- 	padding: 30px 20px;
- 	margin: -2px;
-	font-weight: bold;
-    position:relative;
+
+.jumbotron {
+    height: 500px;
+    
 }
-#outer ul li > ul.inner {
-  display:block;
+
+.jumbotron h1 {
+    color: #406000;
+    font-size: 48px;
+    font-weight: bold;
+    font-family:'Shift', sans-serif;
+    position: relative;
+    top: 20px;
+    left: 55px;
 }
-.inner {
-	position: absolute;
-  /*added */
-  display:none;
-  top:100%;
-  left:0;
+.jumbotron h3 {
+    color: #003300;
+    font-family: 'Shift', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav {
+    color: #4020A0;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+.nav a {
+    color: #00b0ff;
 }
