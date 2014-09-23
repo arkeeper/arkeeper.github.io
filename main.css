@@ -3,7 +3,7 @@ body {
 }
 .jumbotron ul > li {
 	display: inline-block;
-	width: 32%;
+	width: 90px;
 }
 .nav ul {
 	display: block;
