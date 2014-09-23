@@ -36,8 +36,3 @@ body {
 .nav a {
     color: #00b0ff;
 }
-
-.jumbotron .container {
-    position: relative;
-    top: 100px;
-}
