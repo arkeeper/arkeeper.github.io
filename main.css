@@ -5,11 +5,11 @@ body {
 	float: left;
 	width: 32%;
 }
-.jumbotron ul > li > ul {
+.nav ul {
 	display: block;
 	width: 100%;
 }
-.jumbotron ul > li > ul > li {
+.nav ul > li {
 	display: block;
 	float: none;
 }
