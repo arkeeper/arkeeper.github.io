@@ -38,3 +38,8 @@ body {
 .nav a {
     color: indianred;
 }
+
+ul
+{
+    list-style-type: none;
+}
