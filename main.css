@@ -14,7 +14,7 @@ body {
     font-family:'Shift', sans-serif;
     position: relative;
     top: 20px;
-    left: 55px;
+    float: left;
     padding: 30px;
 }
 .jumbotron h3 {
