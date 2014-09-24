@@ -9,7 +9,7 @@ body {
 
 .jumbotron h1 {
     color: #406000;
-    font-size: 48px;
+    font-size: 54px;
     font-weight: bold;
     font-family:'Shift', sans-serif;
     position: relative;
@@ -20,14 +20,14 @@ body {
 .jumbotron h3 {
     color: #003300;
     font-family: 'Shift', sans-serif;
-    font-size: 25px;
+    font-size: 32px;
     font-weight: bold;
 }
 
 .nav {
     color: #4020A0;
     font-family: 'Yanone Kaffeesatz', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     padding-top: 14px;
     padding-bottom: 14px;
