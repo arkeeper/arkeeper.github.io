@@ -11,14 +11,14 @@ body {
     color: #406000;
     font-size: 54px;
     font-weight: bold;
-    font-family:'Shift', sans-serif;
+    font-family: 'Cabin', sans-serif;
     top: 20px;
     float: left;
     padding: 30px;
 }
 .jumbotron h3 {
     color: #003300;
-    font-family: 'Shift', sans-serif;
+    font-family: 'Cabin', sans-serif;
     font-size: 32px;
     font-weight: bold;
 }
