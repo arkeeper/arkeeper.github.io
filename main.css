@@ -54,3 +54,8 @@ ul
   padding: 18px 10px;
   text-transform: uppercase;
 }
+
+.topnav ul, ol {
+margin-top: 5px;
+margin-bottom: 5px;
+}
