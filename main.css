@@ -1,5 +1,6 @@
 body {
      background-image: url('http://www.techandall.com/wp-content/uploads/2013/08/bg5.jpg');
+     background-repeat: no-repeat;
 }
 
 .jumbotron {
